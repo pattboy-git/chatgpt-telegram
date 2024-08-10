@@ -30,8 +30,3 @@
 - [X] Convert exponential numbers to symbols.
 
 ## License
-[MIT License](LICENSE) © 2023 [Arda Günsüren](https://www.ardagunsuren.com)
-
-
-
-   
